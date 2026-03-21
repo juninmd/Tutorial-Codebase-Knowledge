@@ -1,0 +1,4 @@
+[[allowlist]]
+description = "False positive: hashicorp-tf-password in output/FastAPI/07_security_utilities.md"
+rules = ["hashicorp-tf-password"]
+paths = ["output/FastAPI/07_security_utilities.md"]
